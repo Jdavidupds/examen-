@@ -1,0 +1,85 @@
+body{
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header,nav,section,footer{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #230bfa;
+}
+header{
+    text-align: center;
+    background-color: #104ed3;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #0c0c0c;
+}
+section{
+    background-color: #e01010;
+
+}
+.destination{
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid #dddddd;
+}
+.destination h3{
+    margin: 10px 0;
+}
+
+.destination img{
+    max-width: 100%;
+    height: auto;
+}
+#actividadesyl{
+    list-style-type: disc;
+    padding: 20px;
+
+}
+footer{
+    text-align: center;
+    background-color: #419e73;
+    font-size: 20px;
+}
+.footer-links{
+    text-align: center;
+    justify-content: space-between;
+
+}
+.links h3{
+    font-size: 10px;
+    text-align: center;
+    color: #303030;
+    margin-bottom: 18px;
+
+}
+.socials img{
+    text-align: center;
+    margin-right: 15px;
+    width: 5%;
+    height: 40px;
+    border-radius: 25px 25px 0 0;
+
+}
+
+nav a:hover{
+    color: #ff6600;
+}
+nav a:visited{
+    color: #921e1ee5;
+}
+
+
+
+ 
+
+
+
+    
+
